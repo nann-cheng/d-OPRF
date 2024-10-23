@@ -1,0 +1,9 @@
+START HERE
+Received and deserialized message from server 1 by timestamp 2024-10-23 15:44:12.648120142
+Received and deserialized message from server 2 by timestamp 2024-10-23 15:44:12.659312927
+Received and deserialized message from server 3 by timestamp 2024-10-23 15:44:12.660088679
+Received and deserialized message from server 4 by timestamp 2024-10-23 15:44:12.665886647
+Total time required for receiving messages: 225.79 ms
+Hello
+Total time required dealing messages: 214.77 ms
+Total communication size: 144.50 KB
