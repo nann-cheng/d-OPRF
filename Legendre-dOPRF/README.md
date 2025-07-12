@@ -7,7 +7,7 @@ Otherwise, read below how to use the makefile.
 
 ## Disclaimer
 
-This repo is a 100% clone from Kolja's (codebase)[https://github.com/nkKolja/Legendre-dOPRF].
+This repo is a 100% clone from Kolja's [codebase](https://github.com/nkKolja/Legendre-dOPRF).
 
 ### Dependencies
 `gcc, blake3`
